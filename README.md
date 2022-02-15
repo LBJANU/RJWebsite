@@ -1,2 +1,2 @@
 # RJWebsite
-Github Repo containing the code to the RJ Website
+This is my branch nerd get outta here
